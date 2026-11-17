@@ -1,0 +1,30 @@
+{
+ "name": "PY·HSG 10 — Ôn thi HSG Tin 10 Python",
+ "short_name": "PY·HSG 10",
+ "description": "Ôn 8 chủ đề Python, chấm bằng bộ test, thi thử thang 20",
+ "lang": "vi",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0b1630",
+ "theme_color": "#0b1630",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
